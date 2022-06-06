@@ -1,0 +1,277 @@
+@media (max-width: 1280px) {
+    .nav-container-section {
+        /* max-width: 100%; */
+        /* width: 100% !important; */
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    /* menu  */
+
+    .menu-bar ul li {
+        width: 110px;
+    }
+
+    /* menu -end */
+
+}
+
+@media (max-width: 1199px) {
+    .nav-container-section {
+        /* max-width: 100%; */
+        /* width: 100% !important; */
+        height: 100%;
+        margin: 0 auto;
+    }
+
+
+    /* menu  */
+
+    .menu-bar ul li {
+        width: 100px;
+    }
+
+    /* menu -end */
+
+}
+
+@media (max-width: 991px) {
+
+    .nav-container-section {
+        /* max-width: 100%; */
+        /* width: 100% !important; */
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    .nav-searchbox input {
+        width: 20em;
+    }
+
+    .nav-searchbox .btn {
+        padding: 0 20px;
+    }
+
+    .nav-searchbox .btn {
+        margin: 0 0px !important;
+    }
+
+    /* menu  */
+    .menu-bar{
+        text-align: left;
+    }
+    .menu-bar ul li img {
+        width: 40px;
+    }
+
+    .menu-bar ul li {
+        width: 68px;
+        /* padding: 0;
+    margin: 0 5px; */
+    }
+
+    .menu-bar ul li a {
+        font-size: 10px;
+        line-height: normal;
+    }
+
+    .footer-text {
+        display: none;
+    }
+
+    /* menu -end */
+
+
+}
+
+@media (max-width: 767px) {
+    .nav-container {
+        min-width: 500px;
+    }
+
+    .nav-container-section {
+        max-width: 100%;
+        width: 100% !important;
+        height: 100%;
+        margin: 0;
+    }
+    /* font-size */
+
+    .nav-option-section a {
+        font-size: 0.8em;
+    }
+
+    .dropbtn {
+        font-size: 0.8em;
+    }
+
+    .nav-cart i {
+        font-size: 0.8em;
+    }
+
+    /* font-size-end */
+    .nav-logo-container {
+        min-width: 90px;
+        justify-content: flex-start;
+        margin-left: 0 !important;
+    }
+
+    .nav-option-section {
+        margin-right: 0 !important;
+        margin-left: 3px !important;
+    }
+
+    .nav-drop-down {
+        margin-right: 0 !important;
+        margin-left: 3px !important;
+    }
+
+    .nav-cart {
+        margin-left: 3px !important;
+    }
+    .nav-searchbox .btn {
+        padding: 0 2px;
+    }
+
+    .nav-searchbox .btn {
+        margin: 0 0px !important;
+    }
+
+    /* menu  */
+    .menu-bar {
+        text-align: left;
+    }
+
+    .menu-bar ul li img {
+        width: 45px;
+    }
+
+    .menu-bar ul li {
+        width: 35px;
+        /* padding: 0;
+        margin: 0 5px; */
+    }
+
+    .menu-bar ul li a {
+        font-size: 10px;
+        line-height: normal;
+    }
+
+    .footer-text {
+        display: none;
+    }
+
+    /* menu -end */
+
+
+}
+
+@media (max-width: 575px) {
+    .nav-container {
+        min-width: 500px;
+    }
+
+    .nav-container-section {
+        max-width: 75%;
+        width: 100% !important;
+        height: 100%;
+        margin: 0;
+    }
+
+    .nav-logo-container {
+        min-width: 90px;
+        justify-content: flex-start;
+        margin-left: 0 !important;
+    }
+
+    .nav-option-section {
+        margin-right: 0 !important;
+        margin-left: 3px !important;
+    }
+
+    .nav-drop-down {
+        margin-right: 0 !important;
+        margin-left: 3px !important;
+    }
+
+    .nav-cart {
+        margin-left: 3px !important;
+    }
+
+    .nav-searchbox .btn {
+        padding: 0 2px;
+    }
+
+    .nav-searchbox .btn {
+        margin: 0 0px !important;
+    }
+
+    /* font-size */
+
+    .nav-option-section a {
+        font-size: 0.8em;
+    }
+
+    .dropbtn {
+        font-size: 0.8em;
+    }
+
+    .nav-cart i {
+        font-size: 0.8em;
+    }
+
+    /* font-size-end */
+
+    /* nav-bar */
+    .nav-logo {
+        width: auto;
+    }
+
+    .nav-logo-icon img {
+        width: 55px;
+    }
+
+    .nav-logo-text a {
+        font-size: 11px;
+        margin: 0;
+    }
+
+    .nav-searchbox input {
+        width: 15em;
+    }
+
+    .nav-option-section a {
+        margin: 0;
+    }
+
+    /* nav-bar-end */
+
+
+    /* menu  */
+
+    .menu-bar {
+        margin: 0;
+        text-align: left;
+    }
+
+    .menu-bar ul li img {
+        width: 30px;
+    }
+
+    .menu-bar ul li {
+        width: 45px;
+        padding: 0;
+        margin: 0 5px;
+    }
+
+    .menu-bar ul li a {
+        font-size: 7px;
+        line-height: normal;
+    }
+
+    .footer-text {
+        display: none;
+    }
+
+    /* menu -end */
+}
